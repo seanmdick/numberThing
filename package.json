@@ -1,0 +1,22 @@
+{
+  "name": "numberThing",
+  "version": "0.0.0",
+  "description": "a thing that turns numbers into words",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanmdick/numberThing.git"
+  },
+  "author": "Sean Dick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanmdick/numberThing/issues"
+  },
+  "homepage": "https://github.com/seanmdick/numberThing",
+  "dependencies": {
+    "mocha": "^1.17.1"
+  }
+}
